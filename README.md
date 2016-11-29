@@ -1,5 +1,12 @@
 # authentication-csharp
 
+####开发环境
+
+* VS2013
+* .Net Framework 4.0
+
+####说明
+
 这是一个用 C# 写的授权验证程序的小例子, 实现了
 
 * 密钥对文件的生成
